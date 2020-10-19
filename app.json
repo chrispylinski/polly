@@ -1,0 +1,6 @@
+{
+  "name": "Polly API",
+  "description": "Polly (emaily) API built in Node and Express hosted on Heroku",
+  "repository": "https://github.com/chrispylinski/polly",
+  "keywords": ["node", "express", "static"]
+}
