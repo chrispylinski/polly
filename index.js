@@ -11,7 +11,7 @@ app.use(cors()); // so we can call Heroku API; necessary to cross-origin resourc
 app.set("port", process.env.PORT || 5000);
 
 app.get("/", (req, res) => {
-  res.send({hi: "there"})
+  res.send({hi: "christoph"})
 });
 
 app.listen(app.get("port"), function () {
